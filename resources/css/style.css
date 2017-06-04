@@ -13,3 +13,18 @@ a {
 	color: aquamarine;
 	font-size: 16px;
 }
+
+h2{
+	font-family: verdana;
+	font-size: 21px;
+	color: gray;
+}
+
+#yourpersonal {
+	font-weight: 300;
+	font-size: 42px
+}
+
+#copyright {
+	text-align: right;
+}
